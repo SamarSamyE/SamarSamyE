@@ -2,9 +2,7 @@
 <h3 align="center">A passionate software engineering from Egypt</h3>
 
 
-- 🔭 I’m currently studying in **ITI**
-
-- 🌱 I’m currently learning **full stack web development using different frameworks and programming language**
+- 🔭 I’m A Junior Backend Developer 
 
 - 💬 Ask me about **frontend, backend, database**
 
